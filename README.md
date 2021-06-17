@@ -26,6 +26,7 @@ things using Vue.js and JavaScript.
 
 
 You can view more of my projects and writing at [tdaigle.com](https://tdaigle.com)
+
 I also have a [codepen.io](https://codepen.io/tdaigle) where I like to try out some ideas I have.
 
 ---
