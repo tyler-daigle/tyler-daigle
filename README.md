@@ -29,7 +29,7 @@ You can view more of my projects and writing at [tdaigle.com](https://tdaigle.co
 
 ---
 
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler-daigle)
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler-daigle&theme=tokyonight)
 
 <!--
 **tyler-daigle/tyler-daigle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
