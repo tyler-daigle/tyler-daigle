@@ -12,7 +12,7 @@ things using Vue.js and JavaScript.
   - [A budget predictor app](https://github.com/tyler-daigle/budget-predictor) using Vue.
   - [A Fallout Password Hacking Game](https://github.com/tyler-daigle/fallout-game).
   - [An Amateur Radio Exam Creator](https://github.com/tyler-daigle/ham-exam-fe).
-  - A Countdown to Halloween Badge Creator [Not Yet]  
+  - [A Countdown to Halloween Badge Creator](https://github.com/tyler-daigle/halloween-countdown).
 
 ## Some things about me
 
@@ -30,6 +30,7 @@ You can view more of my projects and writing at [tdaigle.com](https://tdaigle.co
 I also have a [codepen.io](https://codepen.io/tdaigle) where I like to try out some ideas I have.
 
 ---
+![Halloween Countdown](https://halloween-countdown.herokuapp.com)
 
 ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler-daigle&theme=tokyonight)
 
