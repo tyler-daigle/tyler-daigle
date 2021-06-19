@@ -31,6 +31,8 @@ I also have a [codepen.io](https://codepen.io/tdaigle) where I like to try out s
 
 ---
 
+![Halloween Countdown](https://halloween-countdown.herokuapp.com/)
+
 ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler-daigle&theme=tokyonight)
 
 <!--
