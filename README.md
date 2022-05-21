@@ -1,51 +1,20 @@
 ![fire header](fire-header.png)
 
-> This fire image was created with my JavaScript and HTML [fire demo](https://github.com/tyler-daigle/fire-demo) 
+## About Me
 
-# Hello There
+Hello, my name is Tyler and I am a **front end web developer** focusing on React.
 
-My name is Tyler and I am a web developer who enjoys creating interesting
-things using Vue.js and JavaScript.
-
-## Some things I have made
-
-  - [A budget predictor app](https://github.com/tyler-daigle/budget-predictor) using Vue.
-  - [A Fallout Password Hacking Game](https://github.com/tyler-daigle/fallout-game).
-  - [An Amateur Radio Exam Creator](https://github.com/tyler-daigle/ham-exam-fe).
-  - [A Countdown to Halloween Badge Creator](https://github.com/tyler-daigle/halloween-countdown).
-
-## Some things about me
-
-  - 👻 I am a huge horror fan and would love to have a job that has something to do with horror (podcasts, websites, movies, etc).
-  - 🐈‍⬛ I have one black cat.
-  - 🎮 I started programming in C because I wanted to be a game programmer.
-  - 🎃 Halloween is my favorite time of the year.
-  - 🤦‍♂️ I once created a Tetris clone in python (with sounds and everything) that worked great... but I somehow managed to delete the entire codebase.
-
-## My Site
+### Some Of My Skills
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 
 
-<!-- You can view more of my projects and writing at [tdaigle.com](https://tdaigle.com) -->
-
-I also have a [codepen.io](https://codepen.io/tdaigle) where I like to try out some ideas I have.
+### My Links
+  - <a href="https://www.linkedin.com/in/tdaigle-com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  - <a href="https://codepen.io/tdaigle"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 
 ---
 
-![Halloween Countdown](https://halloween-countdown.herokuapp.com)
+![Some Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tyler-daigle&theme=blue-green)
 
 ![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tyler-daigle&theme=tokyonight)
 
-<!--
-**tyler-daigle/tyler-daigle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
